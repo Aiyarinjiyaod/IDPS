@@ -1,0 +1,222 @@
+2024-11-16 17:39:23 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 17:39:28 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\kuy.bmp
+2024-11-16 17:39:28 - modified - C:/Users/Ice/Downloads/Ako\kuy.bmp
+2024-11-16 17:49:57 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 17:50:00 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\Ë¡.bmp
+2024-11-16 17:50:00 - modified - C:/Users/Ice/Downloads/Ako\Ë¡.bmp
+2024-11-16 17:50:18 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 17:50:25 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\vu.bmp
+2024-11-16 17:50:25 - modified - C:/Users/Ice/Downloads/Ako\vu.bmp
+2024-11-16 17:50:36 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 17:50:43 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\ÍÕ¤ÇÒÂ.bmp
+2024-11-16 17:50:43 - modified - C:/Users/Ice/Downloads/Ako\ÍÕ¤ÇÒÂ.bmp
+2024-11-16 17:51:31 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 17:51:36 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\Ê¹.bmp
+2024-11-16 17:51:36 - modified - C:/Users/Ice/Downloads/Ako\Ê¹.bmp
+2024-11-16 17:52:53 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image (2).bmp
+2024-11-16 17:53:14 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image (2).bmp -> C:/Users/Ice/Downloads/Ako\¤ÇÂ.bmp
+2024-11-16 17:53:14 - modified - C:/Users/Ice/Downloads/Ako\¤ÇÂ.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\¤ÇÂ.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\Ê¹.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\ÍÕ¤ÇÒÂ.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\vu.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\Ë¡.bmp
+2024-11-16 17:56:21 - deleted - C:/Users/Ice/Downloads/Ako\kuy.bmp
+2024-11-16 17:56:27 - created - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 17:56:30 - moved - C:/Users/Ice/Downloads/Ako\New folder -> C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 17:56:30 - modified - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 17:56:30 - modified - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 17:56:38 - created - C:/Users/Ice/Downloads/Ako\hi\New Bitmap image.bmp
+2024-11-16 17:56:38 - modified - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 17:56:42 - moved - C:/Users/Ice/Downloads/Ako\hi\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\hi\8;p.bmp
+2024-11-16 17:56:42 - modified - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 17:56:42 - modified - C:/Users/Ice/Downloads/Ako\hi\8;p.bmp
+2024-11-16 18:01:37 - created - C:/Users/Ice/Downloads/Ako\hi\New folder
+2024-11-16 18:01:37 - modified - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 18:01:39 - moved - C:/Users/Ice/Downloads/Ako\hi\New folder -> C:/Users/Ice/Downloads/Ako\hi\df
+2024-11-16 18:01:39 - modified - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 18:01:39 - modified - C:/Users/Ice/Downloads/Ako\hi\df
+2024-11-16 18:01:39 - modified - C:/Users/Ice/Downloads/Ako\hi\df
+2024-11-16 18:02:03 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 18:02:06 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 18:02:06 - modified - C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 18:02:34 - created at 2024-11-17 01:02:34 - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 18:02:35 - modified - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 18:02:41 - created at 2024-11-17 01:02:41 - C:/Users/Ice/Downloads/Ako\New Bitmap image (2).bmp
+2024-11-16 18:02:45 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image (2).bmp -> C:/Users/Ice/Downloads/Ako\lol (2).bmp
+2024-11-16 18:02:45 - modified - C:/Users/Ice/Downloads/Ako\lol (2).bmp
+2024-11-16 18:02:48 - created at 2024-11-17 01:02:48 - C:/Users/Ice/Downloads/Ako\New Bitmap image (2).bmp
+2024-11-16 18:02:52 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image (2).bmp -> C:/Users/Ice/Downloads/Ako\kuy.bmp
+2024-11-16 18:02:52 - modified - C:/Users/Ice/Downloads/Ako\kuy.bmp
+2024-11-16 18:03:00 - deleted - C:/Users/Ice/Downloads/Ako\kuy.bmp
+2024-11-16 18:03:00 - deleted - C:/Users/Ice/Downloads/Ako\lol (2).bmp
+2024-11-16 18:03:00 - deleted - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 18:03:00 - deleted - C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 18:03:00 - deleted - C:/Users/Ice/Downloads/Ako\hi
+2024-11-16 18:08:35 - created at 2024-11-17 01:08:35 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 18:08:39 - moved - 2024-11-17 01:08:39 C:/Users/Ice/Downloads/Ako\New folder -> C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 18:08:39 - modifiedat 2024-11-17 01:08:39 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 18:08:39 - modifiedat 2024-11-17 01:08:39 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 18:08:49 - created at 2024-11-17 01:08:49 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 18:08:52 - moved - 2024-11-17 01:08:52 C:/Users/Ice/Downloads/Ako\New Text Document.txt -> C:/Users/Ice/Downloads/Ako\pop.txt
+2024-11-16 18:08:54 - deleted at 2024-11-17 01:08:54 - C:/Users/Ice/Downloads/Ako\pop.txt
+2024-11-16 18:08:54 - created at 2024-11-17 01:08:54 - C:/Users/Ice/Downloads/Ako\lol\pop.txt
+2024-11-16 18:08:54 - modifiedat 2024-11-17 01:08:54 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 18:08:59 - deleted at 2024-11-17 01:08:59 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 18:12:02 - deleted at 2024-11-17 01:12:02 - C:/Users/Ice/Downloads/Ako\dsd
+2024-11-16 18:12:10 - created at 2024-11-17 01:12:10 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 18:12:12 - moved - 2024-11-17 01:12:12 C:/Users/Ice/Downloads/Ako\New folder -> C:/Users/Ice/Downloads/Ako\sd
+2024-11-16 18:12:12 - modifiedat 2024-11-17 01:12:12 - C:/Users/Ice/Downloads/Ako\sd
+2024-11-16 18:12:12 - modifiedat 2024-11-17 01:12:12 - C:/Users/Ice/Downloads/Ako\sd
+2024-11-16 18:15:31 - created at 2024-11-17 01:15:31 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 18:15:33 - moved - 2024-11-17 01:15:33 C:/Users/Ice/Downloads/Ako\New folder -> C:/Users/Ice/Downloads/Ako\Ê¹Ê
+2024-11-16 18:15:33 - modifiedat 2024-11-17 01:15:33 - C:/Users/Ice/Downloads/Ako\Ê¹Ê
+2024-11-16 18:15:34 - modifiedat 2024-11-17 01:15:34 - C:/Users/Ice/Downloads/Ako\Ê¹Ê
+2024-11-16 18:20:25 - deleted at 2024-11-17 01:20:25 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\Ê¹Ê
+2024-11-16 18:20:31 - deleted at 2024-11-17 01:20:31 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\sd
+2024-11-16 19:20:34 - created at 2024-11-17 02:20:34 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol\New Bitmap image.bmp
+2024-11-16 19:20:34 - modifiedat 2024-11-17 02:20:34 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 19:20:38 - moved - 2024-11-17 02:20:38 C:/Users/Ice/Downloads/Ako\lol\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\lol\ice.bmp from IP 192.168.1.111 
+2024-11-16 19:20:38 - modifiedat 2024-11-17 02:20:38 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 19:20:38 - modifiedat 2024-11-17 02:20:38 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\lol\ice.bmp
+2024-11-16 19:29:16 - created at 2024-11-17 02:29:16 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol\New folder
+2024-11-16 19:29:16 - modified at 2024-11-17 02:29:16 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 19:29:18 - modified at 2024-11-17 02:29:18 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol\New folder
+2024-11-16 19:29:51 - created at 2024-11-17 02:29:51 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol\New Bitmap image.bmp
+2024-11-16 19:29:51 - modified at 2024-11-17 02:29:51 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 19:29:59 - moved - 2024-11-17 02:29:59 C:/Users/Ice/Downloads/Ako\lol\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\lol\ice (2).bmp from IP 192.168.1.111
+2024-11-16 19:29:59 - modified at 2024-11-17 02:29:59 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 19:29:59 - modified at 2024-11-17 02:29:59 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol\ice (2).bmp
+2024-11-16 19:54:46 - deleted at 2024-11-17 02:54:46 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\pop.bmp
+2024-11-16 19:54:46 - deleted at 2024-11-17 02:54:46 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\lol
+2024-11-16 19:58:08 - created at 2024-11-17 02:58:08 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 19:58:15 - moved - 2024-11-17 02:58:15 C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\lol.bmp from IP 192.168.1.111
+2024-11-16 19:58:15 - modified at 2024-11-17 02:58:15 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 19:58:23 - created at 2024-11-17 02:58:23 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 19:58:25 - moved - 2024-11-17 02:58:25 C:/Users/Ice/Downloads/Ako\New folder -> C:/Users/Ice/Downloads/Ako\fsf from IP 192.168.1.111
+2024-11-16 19:58:25 - modified at 2024-11-17 02:58:25 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\fsf
+2024-11-16 19:58:25 - modified at 2024-11-17 02:58:25 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\fsf
+2024-11-16 20:01:11 - deleted at 2024-11-17 03:01:11 - C:/Users/Ice/Downloads/Ako\fsf
+2024-11-16 20:01:13 - deleted at 2024-11-17 03:01:13 - C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 20:01:27 - created at 2024-11-17 03:01:27 - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 20:01:29 - moved at 2024-11-17 03:01:29 - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 20:01:29 - modified at 2024-11-17 03:01:29 - C:/Users/Ice/Downloads/Ako\éé´é.bmp
+2024-11-16 20:01:37 - deleted at 2024-11-17 03:01:37 - C:/Users/Ice/Downloads/Ako\éé´é.bmp
+2024-11-16 20:02:23 - created at 2024-11-17 03:02:23 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:02:25 - moved at 2024-11-17 03:02:25 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:02:25 - modified at 2024-11-17 03:02:25 - C:/Users/Ice/Downloads/Ako\65
+2024-11-16 20:02:25 - modified at 2024-11-17 03:02:25 - C:/Users/Ice/Downloads/Ako\65
+2024-11-16 20:02:28 - created at 2024-11-17 03:02:28 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:02:31 - moved at 2024-11-17 03:02:31 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:02:35 - deleted at 2024-11-17 03:02:35 - C:/Users/Ice/Downloads/Ako\65.txt
+2024-11-16 20:02:35 - created at 2024-11-17 03:02:35 - C:/Users/Ice/Downloads/Ako\65\65.txt
+2024-11-16 20:02:35 - modified at 2024-11-17 03:02:35 - C:/Users/Ice/Downloads/Ako\65
+2024-11-16 20:02:45 - created at 2024-11-17 03:02:45 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:02:47 - moved at 2024-11-17 03:02:47 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:02:52 - deleted at 2024-11-17 03:02:52 - C:/Users/Ice/Downloads/Ako\99.txt
+2024-11-16 20:02:52 - created at 2024-11-17 03:02:52 - C:/Users/Ice/Downloads/Ako\65\99.txt
+2024-11-16 20:02:52 - modified at 2024-11-17 03:02:52 - C:/Users/Ice/Downloads/Ako\65
+2024-11-16 20:03:30 - deleted at 2024-11-17 03:03:30 - C:/Users/Ice/Downloads/Ako\65
+2024-11-16 20:04:36 - created at 2024-11-17 03:04:36 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:04:38 - moved - 2024-11-17 03:04:38 C:/Users/Ice/Downloads/Ako\New Text Document.txt -> C:/Users/Ice/Downloads/Ako\65.txt from IP 192.168.1.111
+2024-11-16 20:04:43 - created at 2024-11-17 03:04:43 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:04:45 - moved - 2024-11-17 03:04:45 C:/Users/Ice/Downloads/Ako\New Text Document.txt -> C:/Users/Ice/Downloads/Ako\ÃáÓ.txt from IP 192.168.1.111
+2024-11-16 20:04:55 - created at 2024-11-17 03:04:55 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 20:04:58 - moved - 2024-11-17 03:04:58 C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\ÃáÓ.bmp from IP 192.168.1.111
+2024-11-16 20:04:58 - modified at 2024-11-17 03:04:58 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\ÃáÓ.bmp
+2024-11-16 20:05:02 - created at 2024-11-17 03:05:02 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 20:05:05 - moved - 2024-11-17 03:05:05 C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\ice.bmp from IP 192.168.1.111
+2024-11-16 20:05:05 - modified at 2024-11-17 03:05:05 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\ice.bmp
+2024-11-16 20:05:44 - deleted at 2024-11-17 03:05:44 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\ice.bmp
+2024-11-16 20:05:48 - deleted at 2024-11-17 03:05:48 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\ÃáÓ.bmp
+2024-11-16 20:05:48 - deleted at 2024-11-17 03:05:48 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\ÃáÓ.txt
+2024-11-16 20:05:48 - deleted at 2024-11-17 03:05:48 from IP 192.168.1.111  - C:/Users/Ice/Downloads/Ako\65.txt
+2024-11-16 20:07:10 - created - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:07:14 - moved - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:12:24 - created - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 20:12:27 - moved - C:/Users/Ice/Downloads/Ako\New Bitmap image.bmp
+2024-11-16 20:12:27 - modified - C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 20:14:36 - created - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:14:44 - moved - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:14:44 - modified - C:/Users/Ice/Downloads/Ako\ÊÁã¨
+2024-11-16 20:14:44 - modified - C:/Users/Ice/Downloads/Ako\ÊÁã¨
+2024-11-16 20:15:17 - deleted - C:/Users/Ice/Downloads/Ako\lol.bmp
+2024-11-16 20:15:17 - deleted - C:/Users/Ice/Downloads/Ako\¹¡Ó.txt
+2024-11-16 20:15:17 - deleted - C:/Users/Ice/Downloads/Ako\ÊÁã¨
+2024-11-16 20:17:03 - created - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:17:06 - moved - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:17:08 - modified - C:/Users/Ice/Downloads/Ako\¹¹
+2024-11-16 20:22:47 - deleted - C:/Users/Ice/Downloads/Ako\¹¹
+2024-11-16 20:22:51 - created - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:22:54 - moved - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:22:54 - modified - C:/Users/Ice/Downloads/Ako\1
+2024-11-16 20:22:55 - modified - C:/Users/Ice/Downloads/Ako\1
+2024-11-16 20:23:18 - deleted - C:/Users/Ice/Downloads/Ako\1
+2024-11-16 20:23:22 - created - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:23:24 - moved - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:23:24 - modified - C:/Users/Ice/Downloads/Ako\2
+2024-11-16 20:23:24 - modified - C:/Users/Ice/Downloads/Ako\2
+2024-11-16 20:24:33 - created at 2024-11-17 03:24:33 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New Text Document.txt
+2024-11-16 20:24:35 - moved - 2024-11-17 03:24:35 C:/Users/Ice/Downloads/Ako\New Text Document.txt -> C:/Users/Ice/Downloads/Ako\fff.txt from IP 192.168.1.111
+2024-11-16 20:24:44 - created at 2024-11-17 03:24:44 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\New folder
+2024-11-16 20:24:46 - moved - 2024-11-17 03:24:46 C:/Users/Ice/Downloads/Ako\New folder -> C:/Users/Ice/Downloads/Ako\ddd from IP 192.168.1.111
+2024-11-16 20:24:46 - modified at 2024-11-17 03:24:46 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\ddd
+2024-11-16 20:24:46 - modified at 2024-11-17 03:24:46 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\ddd
+2024-11-16 20:25:47 - moved - 2024-11-17 03:25:47 C:/Users/Ice/Downloads/Ako\ddd -> C:/Users/Ice/Downloads/Ako\5 from IP 192.168.1.111
+2024-11-16 20:25:47 - modified at 2024-11-17 03:25:47 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\5
+2024-11-16 20:26:07 - created at 2024-11-17 03:26:07 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\5\New Bitmap image.bmp
+2024-11-16 20:26:07 - modified at 2024-11-17 03:26:07 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\5
+2024-11-16 20:26:09 - moved - 2024-11-17 03:26:09 C:/Users/Ice/Downloads/Ako\5\New Bitmap image.bmp -> C:/Users/Ice/Downloads/Ako\5\545.bmp from IP 192.168.1.111
+2024-11-16 20:26:09 - modified at 2024-11-17 03:26:09 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\5
+2024-11-16 20:26:09 - modified at 2024-11-17 03:26:09 from IP 192.168.1.111 - C:/Users/Ice/Downloads/Ako\5\545.bmp
+2024-11-16 20:27:01 - deleted at 2024-11-17 03:27:01 from IP 192.168.1.111  - C:/Users/Ice/Downloads\Ako
+2024-11-16 20:27:06 - created at 2024-11-17 03:27:06 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New folder
+2024-11-16 20:27:11 - moved - 2024-11-17 03:27:11 C:/Users/Ice/Downloads\New folder -> C:/Users/Ice/Downloads\99998 from IP 192.168.1.111
+2024-11-16 20:27:11 - modified at 2024-11-17 03:27:11 from IP 192.168.1.111 - C:/Users/Ice/Downloads\99998
+2024-11-16 20:27:11 - modified at 2024-11-17 03:27:11 from IP 192.168.1.111 - C:/Users/Ice/Downloads\99998
+2024-11-16 20:36:34 - created at 2024-11-17 03:36:34 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document.txt
+2024-11-16 20:36:40 - moved - 2024-11-17 03:36:40 C:/Users/Ice/Downloads\New Text Document.txt -> C:/Users/Ice/Downloads\ice.txt from IP 192.168.1.111
+2024-11-16 20:38:26 - created at 2024-11-17 03:38:26 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document.txt
+2024-11-16 20:38:28 - moved - 2024-11-17 03:38:28 C:/Users/Ice/Downloads\New Text Document.txt -> C:/Users/Ice/Downloads\666.txt from IP 192.168.1.111
+2024-11-16 20:41:11 - moved - 2024-11-17 03:41:11 C:/Users/Ice/Downloads\666.txt -> C:/Users/Ice/Downloads\New Text Document.txt from IP 192.168.1.111
+2024-11-16 20:41:21 - created at 2024-11-17 03:41:21 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document (2).txt
+2024-11-16 20:41:25 - moved - 2024-11-17 03:41:25 C:/Users/Ice/Downloads\New Text Document (2).txt -> C:/Users/Ice/Downloads\kuy.txt from IP 192.168.1.111
+2024-11-16 20:42:51 - created at 2024-11-17 03:42:51 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New folder
+2024-11-16 20:42:58 - moved - 2024-11-17 03:42:58 C:/Users/Ice/Downloads\New folder -> C:/Users/Ice/Downloads\kuyÍÕÊÑÊ from IP 192.168.1.111
+2024-11-16 20:42:58 - modified at 2024-11-17 03:42:58 from IP 192.168.1.111 - C:/Users/Ice/Downloads\kuyÍÕÊÑÊ
+2024-11-16 20:42:58 - modified at 2024-11-17 03:42:58 from IP 192.168.1.111 - C:/Users/Ice/Downloads\kuyÍÕÊÑÊ
+2024-11-16 21:07:22 - created at 2024-11-17 04:07:22 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document (2).txt
+2024-11-16 21:07:24 - moved - 2024-11-17 04:07:24 C:/Users/Ice/Downloads\New Text Document (2).txt -> C:/Users/Ice/Downloads\65.txt from IP 192.168.1.111
+2024-11-16 21:09:09 - created at 2024-11-17 04:09:09 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document (2).txt
+2024-11-16 21:12:58 - modified at 2024-11-17 04:12:58 from IP 192.168.1.111 - C:/Users/Ice/Downloads\desktop.ini
+2024-11-16 21:13:26 - deleted at 2024-11-17 04:13:26 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document (2).txt
+2024-11-16 21:14:20 - created at 2024-11-17 04:14:20 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New folder
+2024-11-16 21:14:22 - moved - 2024-11-17 04:14:22 C:/Users/Ice/Downloads\New folder -> C:/Users/Ice/Downloads\gg from IP 192.168.1.111
+2024-11-16 21:14:22 - modified at 2024-11-17 04:14:22 from IP 192.168.1.111 - C:/Users/Ice/Downloads\gg
+2024-11-16 21:17:15 - created at 2024-11-17 04:17:15 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New folder
+2024-11-16 21:17:17 - moved - 2024-11-17 04:17:17 C:/Users/Ice/Downloads\New folder -> C:/Users/Ice/Downloads\df from IP 192.168.1.111
+2024-11-16 21:17:17 - modified at 2024-11-17 04:17:17 from IP 192.168.1.111 - C:/Users/Ice/Downloads\df
+2024-11-16 21:17:33 - deleted at 2024-11-17 04:17:33 from IP 192.168.1.111 - C:/Users/Ice/Downloads\ice.txt
+2024-11-16 21:17:34 - deleted at 2024-11-17 04:17:34 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document.txt
+2024-11-16 21:17:36 - deleted at 2024-11-17 04:17:36 from IP 192.168.1.111 - C:/Users/Ice/Downloads\kuy.txt
+2024-11-16 21:17:38 - deleted at 2024-11-17 04:17:38 from IP 192.168.1.111 - C:/Users/Ice/Downloads\kuyÍÕÊÑÊ
+2024-11-16 21:17:40 - deleted at 2024-11-17 04:17:40 from IP 192.168.1.111 - C:/Users/Ice/Downloads\65.txt
+2024-11-16 21:17:42 - deleted at 2024-11-17 04:17:42 from IP 192.168.1.111 - C:/Users/Ice/Downloads\gg
+2024-11-16 21:17:44 - deleted at 2024-11-17 04:17:44 from IP 192.168.1.111 - C:/Users/Ice/Downloads\df
+2024-11-16 21:23:33 - created at 2024-11-17 04:23:33 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Bitmap image.bmp
+2024-11-16 21:23:35 - moved - 2024-11-17 04:23:35 C:/Users/Ice/Downloads\New Bitmap image.bmp -> C:/Users/Ice/Downloads\sd.bmp from IP 192.168.1.111
+2024-11-16 21:23:35 - modified at 2024-11-17 04:23:35 from IP 192.168.1.111 - C:/Users/Ice/Downloads\sd.bmp
+2024-11-16 21:23:59 - created at 2024-11-17 04:23:59 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Bitmap image.bmp
+2024-11-16 21:24:02 - moved - 2024-11-17 04:24:02 C:/Users/Ice/Downloads\New Bitmap image.bmp -> C:/Users/Ice/Downloads\sd (2).bmp from IP 192.168.1.111
+2024-11-16 21:24:02 - modified at 2024-11-17 04:24:02 from IP 192.168.1.111 - C:/Users/Ice/Downloads\sd (2).bmp
+2024-11-16 23:35:22 - modified at 2024-11-17 06:35:22 from IP 192.168.1.111 - C:/Users/Ice/Downloads\sd (2).bmp
+2024-11-16 23:35:22 - modified at 2024-11-17 06:35:22 from IP 192.168.1.111 - C:/Users/Ice/Downloads\sd.bmp
+2024-11-16 23:35:41 - created at 2024-11-17 06:35:41 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document.txt
+2024-11-16 23:36:08 - moved - 2024-11-17 06:36:08 C:/Users/Ice/Downloads\New Text Document.txt -> C:/Users/Ice/Downloads\456.txt from IP 192.168.1.111
+2024-11-16 23:39:37 - created at 2024-11-17 06:39:37 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Text Document.txt
+2024-11-16 23:40:13 - created at 2024-11-17 06:40:13 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Bitmap image.bmp
+2024-11-16 23:40:15 - modified at 2024-11-17 06:40:15 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Bitmap image.bmp
+2024-11-16 23:43:43 - created at 2024-11-17 06:43:43 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New Microsoft Word Document.docx
+2024-11-16 23:46:15 - created at 2024-11-17 06:46:15 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New WinRAR archive.rar
+2024-11-16 23:46:17 - modified at 2024-11-17 06:46:17 from IP 192.168.1.111 - C:/Users/Ice/Downloads\New WinRAR archive.rar
